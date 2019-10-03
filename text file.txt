@@ -1,3 +1,6 @@
 www.etechnicalschool.com
 
 favourite website for CSEians
+
+#include<stdio.h>
+int fun();
